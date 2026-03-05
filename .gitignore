@@ -1,0 +1,53 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ── Generated output (re-created by running solution.py) ──────────────────────
+# TEST 4/engineering_test_4/submission/predictions.csv
+# TEST 4/engineering_test_4/submission/metrics.json
+# TEST 4/engineering_test_4/submission/fairness.json
+# TEST 4/engineering_test_4/submission/drift.json
+# TEST 4/engineering_test_4/submission/rag_results.json
+# TEST 4/engineering_test_4/submission/latency.json
+# TEST 4/engineering_test_4/submission/model_weights.bin
+
+# Keep RUN.md (instructions) but ignore other submission build artefacts
+!TEST 4/engineering_test_4/submission/RUN.md
+
+# Baseline runner output (not part of submission)
+TEST 4/engineering_test_4/Archive/baseline_output/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS artefacts ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+nul
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Secrets / credentials ─────────────────────────────────────────────────────
+.env
+*.pem
+*.key

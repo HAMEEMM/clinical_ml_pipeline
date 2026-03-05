@@ -1,0 +1,5 @@
+{
+  "avg_ms_per_query": 0.025208266694486767,
+  "p95_ms_per_query": 0.03823033281757181,
+  "notes": "Brute-force cosine similarity (batched matrix multiply) over L2-normalised float32 embeddings (300 docs \u00d7 384 dims, 30 queries). Benchmarked over 100 full-batch iterations on CPU. For corpora >100 k docs, a FAISS HNSW or IVF-Flat index would reduce latency sub-linearly with minimal recall degradation."
+}

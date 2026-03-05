@@ -1,0 +1,9 @@
+{
+  "psi_age": 0.024656105925227732,
+  "psi_bmi": 0.01911724174125937,
+  "psi_systolic_bp": 0.03652842102458481,
+  "psi_hba1c": 0.03687097270384579,
+  "kl_label": 0.025397615206251334,
+  "baseline_positive_rate": 0.1847,
+  "shifted_positive_rate": 0.277
+}

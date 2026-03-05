@@ -1,0 +1,8 @@
+{
+  "demographic_parity_diff": 0.21764117148899748,
+  "equal_opportunity_diff": 0.2327698809066462,
+  "positive_rate_smoker_0": 0.38140417457305503,
+  "positive_rate_smoker_1": 0.5990453460620525,
+  "tpr_smoker_0": 0.5145985401459854,
+  "tpr_smoker_1": 0.7473684210526316
+}

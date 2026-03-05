@@ -1,0 +1,34 @@
+{
+  "README.txt": {
+    "sha256": "589252ff147a77fe783e4d339c00f6084fae9e8eee0355e874418b340ae473b5",
+    "bytes": 954
+  },
+  "doc_embeddings.npy": {
+    "sha256": "84c10ca0d9e36dc1a52678def14e379e3a2b6511564171ab6a3a1e81ab76f856",
+    "bytes": 460928
+  },
+  "patient_readmission.csv": {
+    "sha256": "b2def67b04da7b73e537956dab1120d4018164e1896af6bd24d082f05ee77ad0",
+    "bytes": 416856
+  },
+  "patient_readmission_shifted.csv": {
+    "sha256": "f5de41b4b5ea96c490a8c5c75f0de92f06e7fdf4b5049333efd674717d7415a1",
+    "bytes": 416117
+  },
+  "query_embeddings.npy": {
+    "sha256": "63bb0c4273ccc5fac3cfdd41f384765da926ceb337d4f2f3086781da59377f9a",
+    "bytes": 46208
+  },
+  "rag_docs.csv": {
+    "sha256": "628b43a8b56465a7974e11b6c081bb2bfc21a8e2b720b0401e357bcf15d424eb",
+    "bytes": 141734
+  },
+  "rag_ground_truth_top5.csv": {
+    "sha256": "fd142ac328af9328f54139908539f24b999f8863e5ed2b7837bf91ebeba1e46e",
+    "bytes": 634
+  },
+  "rag_qa.csv": {
+    "sha256": "6c57e657556e340238d225ef1d16d5f3ff92ee74d96e7deeab538771fc84d168",
+    "bytes": 5620
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "readmission_positive_rate": 0.1847,
+  "shifted_positive_rate": 0.277,
+  "features_in_rag_embedding_pipeline": 259,
+  "svd_components_used": 258,
+  "doc_embeddings_shape": [
+    300,
+    384
+  ],
+  "query_embeddings_shape": [
+    30,
+    384
+  ]
+}

@@ -1,0 +1,31 @@
+q_id,question,answer,gt_doc_ids
+1,What outpatient guidance and red flags are typical for sepsis?,"For sepsis, consider beta blockers; red flags: return if symptoms worsen or new neurologic deficits appear.",7 27 47
+2,What outpatient guidance and red flags are typical for COVID-19?,"For COVID-19, consider diuretics; red flags: seek urgent care for severe shortness of breath.",14 34 54
+3,What outpatient guidance and red flags are typical for stroke?,"For stroke, consider antibiotics; red flags: return if symptoms worsen or new neurologic deficits appear.",1 21 41
+4,What outpatient guidance and red flags are typical for sleep apnea?,"For sleep apnea, consider vaccination; red flags: seek urgent care for severe shortness of breath.",8 28 48
+5,What outpatient guidance and red flags are typical for pneumonia?,"For pneumonia, consider sleep study; red flags: return if symptoms worsen or new neurologic deficits appear.",15 35 55
+6,What outpatient guidance and red flags are typical for UTI?,"For UTI, consider counseling; red flags: seek urgent care for severe shortness of breath.",2 22 42
+7,What outpatient guidance and red flags are typical for heart failure?,"For heart failure, consider smoking cessation; red flags: return if symptoms worsen or new neurologic deficits appear.",9 29 49
+8,What outpatient guidance and red flags are typical for depression?,"For depression, consider lifestyle modification; red flags: seek urgent care for severe shortness of breath.",16 36 56
+9,What outpatient guidance and red flags are typical for diabetes?,"For diabetes, consider home blood pressure monitoring; red flags: return if symptoms worsen or new neurologic deficits appear.",3 23 43
+10,What outpatient guidance and red flags are typical for migraine?,"For migraine, consider ACE inhibitors; red flags: seek urgent care for severe shortness of breath.",10 30 50
+11,What outpatient guidance and red flags are typical for chronic pain?,"For chronic pain, consider antibiotics; red flags: return if symptoms worsen or new neurologic deficits appear.",17 37 57
+12,What outpatient guidance and red flags are typical for atrial fibrillation?,"For atrial fibrillation, consider inhaled corticosteroids; red flags: seek urgent care for severe shortness of breath.",4 24 44
+13,What outpatient guidance and red flags are typical for obesity?,"For obesity, consider anticoagulation; red flags: return if symptoms worsen or new neurologic deficits appear.",11 31 51
+14,What outpatient guidance and red flags are typical for kidney disease?,"For kidney disease, consider counseling; red flags: seek urgent care for severe shortness of breath.",18 38 58
+15,What outpatient guidance and red flags are typical for GERD?,"For GERD, consider physical therapy; red flags: return if symptoms worsen or new neurologic deficits appear.",5 25 45
+16,What outpatient guidance and red flags are typical for COPD?,"For COPD, consider dietary sodium restriction; red flags: seek urgent care for severe shortness of breath.",12 32 52
+17,What outpatient guidance and red flags are typical for osteoarthritis?,"For osteoarthritis, consider home blood pressure monitoring; red flags: return if symptoms worsen or new neurologic deficits appear.",19 39 59
+18,What outpatient guidance and red flags are typical for hypertension?,"For hypertension, consider hydration; red flags: seek urgent care for severe shortness of breath.",6 26 46
+19,What outpatient guidance and red flags are typical for anemia?,"For anemia, consider metformin; red flags: return if symptoms worsen or new neurologic deficits appear.",13 33 53
+20,What outpatient guidance and red flags are typical for asthma?,"For asthma, consider inhaled corticosteroids; red flags: seek urgent care for severe shortness of breath.",20 40 60
+21,What outpatient guidance and red flags are typical for sepsis?,"For sepsis, consider beta blockers; red flags: return if symptoms worsen or new neurologic deficits appear.",7 27 47
+22,What outpatient guidance and red flags are typical for COVID-19?,"For COVID-19, consider diuretics; red flags: seek urgent care for severe shortness of breath.",14 34 54
+23,What outpatient guidance and red flags are typical for stroke?,"For stroke, consider antibiotics; red flags: return if symptoms worsen or new neurologic deficits appear.",1 21 41
+24,What outpatient guidance and red flags are typical for sleep apnea?,"For sleep apnea, consider vaccination; red flags: seek urgent care for severe shortness of breath.",8 28 48
+25,What outpatient guidance and red flags are typical for pneumonia?,"For pneumonia, consider sleep study; red flags: return if symptoms worsen or new neurologic deficits appear.",15 35 55
+26,What outpatient guidance and red flags are typical for UTI?,"For UTI, consider counseling; red flags: seek urgent care for severe shortness of breath.",2 22 42
+27,What outpatient guidance and red flags are typical for heart failure?,"For heart failure, consider smoking cessation; red flags: return if symptoms worsen or new neurologic deficits appear.",9 29 49
+28,What outpatient guidance and red flags are typical for depression?,"For depression, consider lifestyle modification; red flags: seek urgent care for severe shortness of breath.",16 36 56
+29,What outpatient guidance and red flags are typical for diabetes?,"For diabetes, consider home blood pressure monitoring; red flags: return if symptoms worsen or new neurologic deficits appear.",3 23 43
+30,What outpatient guidance and red flags are typical for migraine?,"For migraine, consider ACE inhibitors; red flags: seek urgent care for severe shortness of breath.",10 30 50
